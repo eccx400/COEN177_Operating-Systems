@@ -1,0 +1,10 @@
+Page number 5072 caused a page fault.
+Page number 7088 caused a page fault.
+Page number 1984 caused a page fault.
+Page number 9984 caused a page fault.
+Page number 5120 caused a page fault.
+Page number 5632 caused a page fault.
+Page number 6144 caused a page fault.
+Page number 6656 caused a page fault.
+Page number 7168 caused a page fault.
+Page number 7680 caused a page fault.

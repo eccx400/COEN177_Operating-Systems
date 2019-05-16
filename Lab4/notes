@@ -1,0 +1,13 @@
+stdin >> page request and put it in page table
+if page in table do not add again
+
+code in c, c++, rust
+
+number of request - number of misses = number of hits
+hit rate = hits/requests (always < 1)
+
+cat accesses txt |./(our program) (insert size of pages)
+
+make sure to use headers! (include headers in other files)
+
+Objective: Graph of hit rate and page table size, why which algorithm is better
