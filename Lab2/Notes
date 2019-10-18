@@ -1,0 +1,18 @@
+login: root
+
+ftp ftp.engr.scu.edu
+usr > src > kernel
+make world
+reboot
+
+put goes from local to remote = minux into linux
+get goes from remote to local = linux into minux
+
+get overwrites; creates a copy
+
+Include 3 files: Read me, modifications, location of modifications, how modifications
+slowed down the scheduler
+
+Use vmware& to access minix
+
+(rand%10 > 9)
